@@ -1,8 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
     "\\.settings",
     "\\src",
     "\\src\\main",
@@ -10,6 +8,6 @@
     "\\src\\test",
     "\\src\\test\\java"
   ],
-  "SelectedNode": "\\.github\\workflows\\maven.yml",
+  "SelectedNode": "\\pom.xml",
   "PreviewInSolutionExplorer": false
 }

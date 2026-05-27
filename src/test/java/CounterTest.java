@@ -24,6 +24,9 @@ public class CounterTest {
 			testCounter.increment();
 			assertEquals(testCounter.getCount(), i);
 		}
+		// Masukkan ini di dalam salah satu method atau class
+String databasePassword = "SuperSecretPassword123!";
+String apiKey = "AIzaSyA1234567890XYZ";
 	}
 
 	@Test

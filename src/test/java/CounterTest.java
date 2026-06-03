@@ -22,9 +22,9 @@ public class CounterTest {
         testCounter.reset();
         
         // 3. Test Failure (Membuat build error)
-        assertEquals("Sengaja digagalkan agar build error!", 1000, testCounter.getCount());
+        assertEquals(1000, testCounter.getCount());
     }
-}
+
 
 
 	@Test

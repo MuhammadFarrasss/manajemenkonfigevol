@@ -1,7 +1,7 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 import org.junit.Test;
-import org.w3c.dom.css.Counter;
+
 
 public class CounterTest {
 
@@ -24,6 +24,7 @@ public class CounterTest {
         // 3. Test Failure (Membuat build error)
         assertEquals("Sengaja digagalkan agar build error!", 1000, testCounter.getCount());
     }
+}
 
 
 	@Test
